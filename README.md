@@ -25,3 +25,4 @@ A simple yet powerful Python script designed for developers and code enthusiasts
 Contributions are welcome! Feel free to fork, modify, and submit pull requests to improve the functionality or add new features to the Code Search Utility.
 
 ---
+[If You Like This Project Join My Discord Server](https://discord.gg/XbrtTTM2ZZ)
